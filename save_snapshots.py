@@ -20,9 +20,6 @@ import sys
 import argparse
 import os
 
-__author__ = "Tiziano Fiorenzani"
-__date__ = "01/06/2018"
-
 
 def save_snaps(width=0, height=0, name="snapshot", folder=".", raspi=False):
 
