@@ -10,8 +10,6 @@ like cameracalib.py folder_name png
 
 --h for help
 """
-__author__ = "Tiziano Fiorenzani"
-__date__ = "01/06/2018"
 
 import numpy as np
 import cv2
